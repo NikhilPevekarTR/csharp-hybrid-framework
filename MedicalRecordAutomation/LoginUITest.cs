@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace ThomsonReuters.MedicalRecordAutomation
 {
+    //Login Test Cases
     public class LoginUITest
     {
         [Test]
